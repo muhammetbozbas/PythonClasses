@@ -1,0 +1,15 @@
+{
+  "muhammetbozbas": {
+    "firstName": "Muhammet",
+    "lastName": "Bozbas"
+  },
+  "sadikturan": {
+    "firstName": "Sadik",
+    "lastName": "Turan"
+  },
+  "emelturan": {
+    "firstName": "Emel",
+    "lastName": "Turan",
+    "age": 30
+  }
+}

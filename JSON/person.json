@@ -1,0 +1,19 @@
+{
+  "firstName": "Muhammet",
+  "lastName": "Bozbas",
+  "hobbies": [
+    "sport",
+    "software"
+  ],
+  "age": 19,
+  "friends": [
+    {
+      "firstName": "Nidai",
+      "age": "19"
+    },
+    {
+      "firstName": "Asaf",
+      "age": "19"
+    }
+  ]
+}
